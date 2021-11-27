@@ -6,6 +6,6 @@
 - 👀 Providing solution related to Google Email services, Gmail etc.
 - 🌱 Working with Linux, AWS, Docker, Jenkins, Ansible, GIT, Nagios, Putty, Openshift, RabbitMQ, ServiceNOW, Sql, Splunk, Linux, Java, Android Studio, Dbms, Html, C etc
 
-## Find me around the web 🌎: <a href="https://github.com/kumarvimal349"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## Find me around the web 🌎: <a href="https://github.com/kumarvimal349">
 - Sharing updates on <a href="https://www.linkedin.com/in/vimalkumar4/">LinkedIn</a> 💼
 - Sharing updates on <a href="https://mail.google.com/mail/u/1/#inbox">Gmail</a>✍🏾
