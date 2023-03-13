@@ -4,7 +4,7 @@
 - 💞️ Building script in CI/CD pipelines...
 - 📫 Extensive experience in troubleshooting  various  issues to Openshift in the live environment...
 - 👀 Providing solution related to Google Email services, Gmail etc.
-- 🌱 Working with Linux, AWS, Docker, Jenkins, Ansible, GIT, Nagios, Putty, Openshift, RabbitMQ, ServiceNOW, Sql, Splunk, Linux, Java, Android Studio, Dbms, Html, C etc
+- 🌱 Working with Linux, AWS, Docker, Jenkins, Ansible, GIT, Nagios, Putty, Openshift, RabbitMQ, ServiceNOW, Sql, Splunk, Linux,Dbms, Html, C etc
 
 ## Find me around the web 🌎: <a href="https://github.com/kumarvimal349"></a>
 - Sharing updates on <a href="https://www.linkedin.com/in/vimalkumar4/">LinkedIn</a> 💼
